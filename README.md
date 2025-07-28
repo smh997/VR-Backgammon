@@ -1,9 +1,9 @@
 # Backgammon VR
 A VR backgammon game where two players can play together in a virtual environment. Built for 6DoF headsets with grab interactions, dice physics, and socket-based movement.
 
+<!-- 
 ## 🚀 Features
-
-<!-- - 🧠 Implements turn-based logic simulating traditional Backgammon rules  
+ - 🧠 Implements turn-based logic simulating traditional Backgammon rules  
 - 👆 Interact with pieces using ray-based VR controls  
 - 🎲 Dice roll mechanics with visual feedback  
 - ✨ Piece highlighting and movement validation  
@@ -17,15 +17,7 @@ A VR backgammon game where two players can play together in a virtual environmen
 
 ## 🎥 Demo
 
-*Coming soon!*  
-<!-- Replace with actual media when ready -->
-<!-- Example:
-[▶️ Watch Demo on YouTube](https://youtube.com/your-demo-link)
-
-or
-
-![Demo GIF](https://link-to-your-demo.gif)
--->
+![Demo Gif](https://github.com/smh997/VR-Backgammon/blob/main/Videos/Backgammon-gif.gif)
 
 ## 📄 License
 
