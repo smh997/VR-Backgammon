@@ -19,6 +19,19 @@ A VR backgammon game where two players can play together in a virtual environmen
 
 ![Demo Gif](https://github.com/smh997/VR-Backgammon/blob/main/Videos/Backgammon-gif.gif)
 
+## 🤝 Contributing
+
+Contributions, suggestions, and pull requests are welcome!
+
+If you'd like to improve the project or add new features:
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m 'Add some feature'`)
+4. Push to the branch (`git push origin feature/YourFeature`)
+5. Open a Pull Request
+
+Feel free to open issues for bugs, ideas, or discussions.
+
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
